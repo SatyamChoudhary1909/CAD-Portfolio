@@ -100,11 +100,6 @@ Part Modeling · Solid Modeling · Parametric CAD · Mechanical Design
 <td>Extrude · Revolve · Sweep · Blend · Fillet · Chamfer · Hole · Pattern</td>
 </tr>
 
-<tr>
-<td><b>📁 CAD Formats</b></td>
-<td>STEP / STP</td>
-</tr>
-</table>
 
 ## 🎯 Areas of Interest
 
