@@ -72,46 +72,39 @@ Part Modeling · Solid Modeling · Parametric CAD · Mechanical Design
 
 ---
 
-## 🛠️ CAD Skills
+## 🛠️ CAD Skills & Tools
 
 <table>
 <tr>
-<td width="25%"><b>💻 Software</b></td>
-<td>PTC Creo</td>
+<td width="25%"><b>💻 CAD Software</b></td>
+<td>PTC Creo · AutoCAD 2D/3D</td>
 </tr>
 
 <tr>
-<td><b>📦 Modeling</b></td>
-<td>3D Part Modeling · Solid Modeling · Parametric Modeling</td>
+<td><b>📦 3D Modeling</b></td>
+<td>3D Part Modeling · Solid Modeling · Parametric Modeling · Mechanical Component Modeling</td>
 </tr>
 
 <tr>
-<td><b>🔧 Features</b></td>
+<td><b>📐 2D CAD</b></td>
+<td>2D Drafting · Technical Drawings · Dimensioning · Orthographic Views</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Assembly Design</b></td>
+<td>Component Placement · Assembly Constraints · Exploded Views · Section Views</td>
+</tr>
+
+<tr>
+<td><b>🔧 CAD Features</b></td>
 <td>Extrude · Revolve · Sweep · Blend · Fillet · Chamfer · Hole · Pattern</td>
-</tr>
-
-<tr>
-<td><b>⚙️ Assembly</b></td>
-<td>Assembly Design · Component Placement · Constraints · Exploded Views</td>
-</tr>
-
-<tr>
-<td><b>📊 Visualization</b></td>
-<td>Isometric Views · Orthographic Views · Section Views · CAD Visualization</td>
 </tr>
 
 <tr>
 <td><b>📁 CAD Formats</b></td>
 <td>STEP / STP</td>
 </tr>
-
-<tr>
-<td><b>🔩 Mechanical Design</b></td>
-<td>Housings · Fittings · Flanges · Shafts · Manifold Geometry</td>
-</tr>
 </table>
-
----
 
 ## 🎯 Areas of Interest
 
